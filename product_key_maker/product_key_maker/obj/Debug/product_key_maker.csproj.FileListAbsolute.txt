@@ -1,0 +1,10 @@
+C:\Users\Admin\source\repos\product_key_maker\product_key_maker\bin\Debug\product_key_maker.exe.config
+C:\Users\Admin\source\repos\product_key_maker\product_key_maker\bin\Debug\product_key_maker.exe
+C:\Users\Admin\source\repos\product_key_maker\product_key_maker\bin\Debug\product_key_maker.pdb
+C:\Users\Admin\source\repos\product_key_maker\product_key_maker\obj\Debug\product_key_maker.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\product_key_maker\product_key_maker\obj\Debug\product_key_maker.Form1.resources
+C:\Users\Admin\source\repos\product_key_maker\product_key_maker\obj\Debug\product_key_maker.Properties.Resources.resources
+C:\Users\Admin\source\repos\product_key_maker\product_key_maker\obj\Debug\product_key_maker.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\product_key_maker\product_key_maker\obj\Debug\product_key_maker.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\product_key_maker\product_key_maker\obj\Debug\product_key_maker.exe
+C:\Users\Admin\source\repos\product_key_maker\product_key_maker\obj\Debug\product_key_maker.pdb
